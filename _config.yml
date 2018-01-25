@@ -18,19 +18,19 @@ avatar: https://the-green-man.net/wp-content/uploads/2017/01/mango.jpg
 
 # Includes an icon in the footer for each username you enter
 footer-links:
-  dribbble: What the heck is dribble
-  email: None
-  facebook: None
-  flickr: None
-  github: Secret
-  instagram: None
-  linkedin: None
-  pinterest: None
+  dribbble:
+  email:
+  facebook: 
+  flickr:
+  github:
+  instagram:
+  linkedin: 
+  pinterest:
   rss: # just type anything here for a working RSS icon
-  twitter: None
-  stackoverflow: None
-  youtube: https://www.youtube.com/watch?v=T1yq6v2Hu2w
-  googleplus: None
+  twitter:
+  stackoverflow:
+  youtube: watch?v=T1yq6v2Hu2w
+  googleplus:
 
 
 # Enter your Disqus shortname (not your username) to enable commenting on posts
