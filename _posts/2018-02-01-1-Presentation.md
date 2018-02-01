@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Projection Mapping Ruins
+title: Overview-Projection Mapping Ruins
 ---
 
 Projection Mapping in Ottawa tends to take the form of large-scale events and celebrations. It's commonly employed by the Department of Canadian Heritage (light show) and City of Ottawa (Kontinuum), but has been used for a range of promotional activity.
@@ -26,10 +26,10 @@ The National Capital Region has a rich history with many reminders, including sh
 Some examples of popular sites include:
 
 ![The Carbide Wilson Ruins](https://historicottawa.files.wordpress.com/2017/08/img_6275-2.jpg?w=2800)
-The Carbide Wilson Ruins, located in Gatineau Park
+*The Carbide Wilson Ruins, located in Gatineau Park*
 
 ![The Deschenes Hydro Ruins](https://historicottawa.files.wordpress.com/2017/08/img_6325.jpg?w=2800)
- The Descnenes Hydro Ruins, Located just downstream from Aylmer
+*The Descnenes Hydro Ruins, Located just downstream from Aylmer*
 
 There are also several hidden ruins in the downtown core and satellite communities that have garnered attention. Here's one in Carlsbad Springs, a rural hamlet about 20 minutes from Carleton.
 
@@ -37,13 +37,13 @@ There are also several hidden ruins in the downtown core and satellite communiti
 This dilapidated home is the last remnant of the grand Boyd hotel in Carlsbad Springs. The hotel boom put Carlsbad on the map in the 1870s and kept things busy right through 'till the 1930s, when the decline began.
 
 ![Hotel](https://historicottawa.files.wordpress.com/2017/07/a197430-v6.jpg?w=600&h=&crop=1&zoom=2)
-My how time flies. Postcard. LAC Topley collection.
+*My how time flies. Postcard. LAC Topley collection.*
 
 ![Hotel](https://historicottawa.files.wordpress.com/2017/07/photo041.jpg?w=784&h=&crop=1&zoom=2)
-NCC image.
+*NCC image.*
 
 ![Hotel2](https://historicottawa.files.wordpress.com/2017/07/photo038.jpg?w=782&h=&crop=1&zoom=2)
-Too spooky. The site is now gone, demolished for a new home.
+*Too spooky. The site is now gone, demolished for a new home.*
 
 # Mapping the Downtown Ruins
 
