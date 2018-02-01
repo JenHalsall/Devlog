@@ -106,7 +106,6 @@ Sites:
 + Targeted advertisements from the Ottawa Journal, Ottawa Business Directory, etc. projected on the former properties (NCC owned?)
 
 # And the Trees
-![Angry tree](http://2.bp.blogspot.com/-7p9qM8Wm0pM/UWeue9MPyoI/AAAAAAAADaM/yCEiZFkTARw/s1600/angry_tree150.jpg)
 
 I would really, really like to do the trees. Ottawa is under attack --the trees are revolting! But only some of them are affected? What connects these strange occurrences, and who is behind them?
 Follow the clues to uncover the truth, chopping some kindling along the way. Eventually your sleuthing will lead you to the Greber Plan, a government conspiracy that led to the planting of trees on contaminated sites. 
@@ -114,11 +113,12 @@ Could these toxins be causing the trees to revolt? But why now? Why here?
 
 Venture on to find out...
 
-![Ranger](https://i.pinimg.com/originals/be/74/a8/be74a82469c0b148d31afa76cbda472d.png)
+![Angry tree](http://2.bp.blogspot.com/-7p9qM8Wm0pM/UWeue9MPyoI/AAAAAAAADaM/yCEiZFkTARw/s1600/angry_tree150.jpg)
 
-## Themes in the Leaves
+The game would take players on a series of encounters aimed at solving the government conspiracy. Along the way, it touches on a series of major decisions that had social and environmental outcomes --for better or for worse.
 
 In your investigation into Greber and his sinister planners, the following topics will be explored:
+
 + Government corruption (for real!)
 + Parkway development
 + Urban Renewal (razing neighbourhoods)
@@ -126,5 +126,18 @@ In your investigation into Greber and his sinister planners, the following topic
 + The Greenbelt
 + City beautification
 + Narrative construction
+
+And many more, brave adventurer...
+
+![Ranger](https://i.pinimg.com/originals/be/74/a8/be74a82469c0b148d31afa76cbda472d.png)
+
+## Final thoughts on Escape the Trees:
+
+The underlying aims here are three-fold: to learn about the Greber Plan and its many outcomes, to see how past decisions still impact life today, and to form a solid link (albeit a fun one) between the environment and human activity.
+Players should end the game feeling either dead or grimly satisfied. They should also have an appreciation for the politics of trees.
+
+They'll never look at city plantings the same.
+
+
 
 
