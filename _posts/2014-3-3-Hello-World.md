@@ -26,6 +26,3 @@ I'll leave this devlog with a little ditty from my man John. You might notice it
 
 <iframe width="560" height="315" src="https://www.youtube.com/embed/diwuu_r6GJE?rel=0&amp;showinfo=0" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
-# Final thought
-
-Why do digital humanities (DH) writers insist on calling their computers machines? Certainly there are some practical reasons -you don't have to differentiate between phone, tablet, ad laptop- but it seems more a throwback to the days of Mighty Masculine Webmaster (TM), bravely traversing his net and surveying his domain.

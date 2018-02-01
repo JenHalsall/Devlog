@@ -1,0 +1,72 @@
+---
+layout: post
+title: Devlog 2
+---
+
+# Devlog 2: Disruptions
+
+This week looks at the cracks in the system, and how some of the possible platforms we'll be using have been used locally. I plan to focus on two options here, casting both out for feedback before ultimately settling on a chosen path. The two technologies in question are ARIS, a web-based game development client that produced content for an established app; and projection mapping. 
+Projection mapping is undoubtedly the most widely-used option of the two, and appears across Ottawa at a variety of government-sponsored events. The Parliament hill light show is one example. Every summer night at nine, a complex display of Canadian history is mapped across centre block. On holidays, the display is changed to reflect the nuances of the event.
+
+! [Parliament Hill](https://www.ottawatourism.ca/wp-content/uploads/2015/03/Sound-and-Light-Show-on-Parliament-Hill-Northern-Lights-2.jpg)
+*Parliament hill on Canada Day (Ottawa Tourism)*
+
+These displays are intended to showcase state-endorsed narratives, and are generally not confrontational in their assertions. There is little mention of the more troubling aspects of our past, such as the establishment of the residential school system or the internment of Japanese Canadians during the Second World War.
+
+Projection mapping has also gained traction as an innovative form of advertising. Some retailers have opted to employ the unique lighting to create holiday-themed promotions for stores, while others have used projection mapping for custom events and celebrations. The City of Ottawa used projection mapping for its Kontinuum installation, a science fiction experiece hosted in an unfinished LRT tunnel. Visitors were encouraged to walk along the empty platforms, watching as a projected train filled with happy residents whizzed into view.
+
+As a relatively simple, minimally-intrusive means of creating colourful displays, the business of projection mapping appears to be booming. FMAV Canada, a national event company specializing in mapped projections, offers the following summary video on their website:
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/-RFcOHoFo2A" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+At first glance, projection mapping seems to fall neatly into the realm of advertisement and promotion. However, like many resources in these fields, it can be used for multiple alternate purposes. Projection mapping has been used to denounce US President Donald Trump in several cities, for example. Without violating Canadian law, demonstrators and pranksters alike can throw images, text, and video onto established features. It's a low-cost, high-visibility option that scales well to the promotion of counter narratives.
+
+At the Ottawa Art Gallery, DJ Bear Witness projected his artwork, "Of Buffalo, Bears, and Indian Scouts," on the facade of the gallery's Cube. Another light-based installation, "Ascension," was also mounted on the outdoor platform. 
+
+Although this technology (sometimes called video mapping) is slow to take off in Ottawa, it seems Montreal has embraced it whole-heartedly. The city hosted its first projection mapping festival in 2016, illuminating buildings, buses, and even children.
+
+! [Projection by VJ Suave, of Brazil](https://i.cbc.ca/1.3794866.1475787533!/fileImage/httpImage/image._gen/derivatives/original_620/mapping-festival.)
+*Video projection in Montreal (CBC)*
+
+In Montreal, projection mapping's historical applications are illuminated clearly. In the old port district, installations treat visitors to sights an sounds from the past. Trees, buildings, roads --they're all used as mediums for the artwork. The CBC offers a glimpse into the 2016 projections:
+
+<iframe src="//www.cbc.ca/i/caffeine/syndicate/?mediaId=688977987998" width="460" height="" frameborder="0" allowfullscreen></iframe>
+*CBC*
+
+The Montreal projections were described at the time as the largest such installation in the world. 80 projectors were used to create the spectacle, and a free app downloaded to visitors' phones triggered the visions to come to life. 
+
+Despite these successes, projection mapping is also beset by a number of challenges: 
+
++ To an extent, it is restricted by ambient lighting. Projection mapping works best when there is a ark surface upon which art can be viewed; in areas with high light pollution there may be few options available
++ As a medium for counter-narratives, it still requires some start-up capital to purchase the necessary equipment. This can be done relatively cheaply for a small projector, but depending on the size and scope of the installation, costs can start to balloon. 
++ As is true with many new technologies, projection mapping requires some technical background -a trait restricting its user base
++ It also relies on spectacle: there is little opportunity to engage with the projections, though they can be enriched with the inclusion of other sensory elements. Sounds may be "piped in," textures borrowed from targeted buildings, and scents used from the area. However, the message is very much one of passive enjoyment, rather than taking action (although you can certainly project a call to action and hope others will follow).
++ Historical and locationally-grounded projections run the risk of obscuring the physical history upon which they are projected; symbolically overriding local narratives
++ Finally, and perhaps most crucially, projection mapping in Ottawa has largely presumed a passive audience. There is little opportunity to speak back to the piece, to customize it or offer commentary directly. It is medium for telling, but not collective sharing. The authority of the projectionist remains intact, unless one covers the projector's lens (a difficult thing, in most circumstances).
+
+Each of these critiques may be mitigated creatively, and the list is by no means a damnation of mapping itself. Indeed, there are many positive elements to the technology as well:
+
++ Projections are easily accessed and require little promotion, provided they are placed in high-traffic areas
++ Set-up and disassembly are relatively straightforward on small projectors, a trait which aligns well with protesters and those seeking to promote counter-narratives
++ Projections function as art and exist somewhat physically in the landscape, creating an aesthetically-minded, tangible experience
+
+In Ottawa, projection mapping may be used in a number of key areas to show transformations stemming from government planning policy. Obvious examples include the razing of Lebreton Flats and other urban renewal initiatives undertaken in the 1960s an 1970s. However, it may also be used to show the gentrification of neighbourhoods like the Glebe, or the gradual evolution of specific resident experiences (dining, theatres, etc. along busy commercial streets).
+
+In the Byward Market, projection mapping shows the demolition of old buildings to create condos, restaurants, and courtyards. It can also be used to show the gradual disappearance of the farmer's market, which has incurred heavy losses since the 1950s and is now a shadow of its former self.
+
+By the entrance to the Rideau Canal, projection mapping can be paired with existing stone ruins to highlight the remnants of the past that remain to be explored today. There are two large stone foundations in the vicinity of the Bytown Museum that could be examined, one of which is placed directly next to a large, relatively blank stone wall that would bear the image beautifully. Just above it, Lady Grey drive curves gently toward Gatineau, devoid of the trains and streetcars it once held.
+
+! [The empty stone wall. The Virginia creeper has since been removed from the stonework.](https://pbs.twimg.com/media/CLWIz6jUwAAMxPA.jpg)
+*Musket firing by the empty stone wall. Photo from @GeraldDoutre on Twitter.*
+
+A five minute walk from here, located conveniently on the Ottawa River pathway, the ruins of an old sawmill beg to be explored. Capital Gems, an urban exploration collective, has [documented the ruins well.](http://www.capitalgems.ca/parliament-hill-mill.html) 
+
+While empty, the locks themselves may be projected upon to show the harsh labour required for their construction. Labourers can heave and haul in the cold, muddy basins, showing visitors precisely what went into the canal they skate upon today.
+
+##The road ahead
+
+Moving forward, a strategy for creating and presenting these illusions must be created. Locations must be chosen, images and video paired, and if necessary, promotional strategies developped. Some locations, such as those near the Rideau Canal entrance, may be sparsely attended in the winter months.
+
+There also remains the question of other technologies. ARIS may prove to be a more fascinating pick, though it is certainly more complex in its demands and is unlikely to reach a large audience.
+
+Of course, there's a final step that still needs to be undertaken for any of this to work: before anything gets projected, I need to learn how to create and scale the projections!
