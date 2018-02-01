@@ -100,3 +100,31 @@ Sites:
 + Rideau Canal Locks
 + Elgin Street by the NAC
 
+# One final alternate Idea
+![Directory image 1910](https://i0.wp.com/www.historynerd.ca/wp-content/uploads/2016/07/1910-01-08-2-Macs-Ad-Busy-Corner-Page-4.jpg)
+*Ottawa Journal, 1910*
++ Targeted advertisements from the Ottawa Journal, Ottawa Business Directory, etc. projected on the former properties (NCC owned?)
+
+# And the Trees
+![Angry tree](http://2.bp.blogspot.com/-7p9qM8Wm0pM/UWeue9MPyoI/AAAAAAAADaM/yCEiZFkTARw/s1600/angry_tree150.jpg)
+
+I would really, really like to do the trees. Ottawa is under attack --the trees are revolting! But only some of them are affected? What connects these strange occurrences, and who is behind them?
+Follow the clues to uncover the truth, chopping some kindling along the way. Eventually your sleuthing will lead you to the Greber Plan, a government conspiracy that led to the planting of trees on contaminated sites. 
+Could these toxins be causing the trees to revolt? But why now? Why here?
+
+Venture on to find out...
+
+![Ranger](https://i.pinimg.com/originals/be/74/a8/be74a82469c0b148d31afa76cbda472d.png)
+
+## Themes in the Leaves
+
+In your investigation into Greber and his sinister planners, the following topics will be explored:
++ Government corruption (for real!)
++ Parkway development
++ Urban Renewal (razing neighbourhoods)
++ Railway relocation
++ The Greenbelt
++ City beautification
++ Narrative construction
+
+
