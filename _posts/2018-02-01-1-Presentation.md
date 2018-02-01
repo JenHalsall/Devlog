@@ -2,7 +2,7 @@
 layout: post
 title: Projection Mapping Ruins
 ---
-#Mapping the Past: Exploring Ottawa's Ruins
+# Mapping the Past: Exploring Ottawa's Ruins
 
 Projection Mapping in Ottawa
 
