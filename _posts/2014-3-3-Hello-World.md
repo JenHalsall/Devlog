@@ -2,7 +2,6 @@
 layout: post
 title: Devlog 1: Adventures on the Net
 ---
-
 This is the first of a series of devlogs chronicling the progress made on the construction of a virtual exhibition documenting Greenbelt oral histories in Ottawa, Ontario. Although this post and its accompanying blog are designed from templates, they are very much from scratch. These lines mark the author's first successful attempt at creating a webpage from text file, and their second successful attempt masquerading as a mango. 
 
 ![A mango](https://the-green-man.net/wp-content/uploads/2017/01/mango.jpg)
