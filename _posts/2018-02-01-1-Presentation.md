@@ -1,7 +1,3 @@
----
-layout: post
-title: Overview-Projection Mapping Ruins
----
 Projection Mapping in Ottawa tends to take the form of large-scale events and celebrations. It's commonly employed by the Department of Canadian Heritage (light show) and City of Ottawa (Kontinuum), but has been used for a range of promotional activity.
 ![Parliament Hill](https://www.ottawatourism.ca/wp-content/uploads/2015/03/Sound-and-Light-Show-on-Parliament-Hill-Northern-Lights-2.jpg)
 *(Ottawa Tourism)*
