@@ -3,18 +3,4 @@ layout: page
 title: About
 permalink: /about/
 ---
-![Some succulent mangoes from Wikipedia](https://upload.wikimedia.org/wikipedia/commons/c/c3/Mangoes_pic.jpg)
-
-From Wikipedia:
-
-**Mangoes**: juicy stone fruit (drupe) from numerous species of tropical trees belonging to the flowering plant genus *Mangifera*, cultivated mostly for their edible fruit.
-
-### More Information
-
-A real mango with an itch for fake content.
-
-### Contact me
-
-Via South Asia or Loblaws, depending on your preference.
-
-I'm in the produce aisle. Hit me up.
+This GitHub repository chronicles the construction of "Tree Ottawa: Greber's Revenge," An ARIS-based game set in Canada's capital city. Players follow environmental changes through the cty's development to uncover the roots of a supernatural mystery, culmiating in an encounter with the planning mastermind behind it all.
