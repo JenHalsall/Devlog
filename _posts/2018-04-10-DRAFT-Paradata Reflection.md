@@ -27,3 +27,6 @@ Creating Tree Ottawa: Greber's Revnge followed a relatively linear process, outl
 + Fine tuning: An ongoing process, this doesn't have a set start and end date. The game is, in theory, a living thing that should be tweaked and refined to accomodate new issues. In-class reports and conversations also greatly contributed to this ongoing stage, as well as the others set out earlier in this list. As with the accessibility and representation testing, this stage is made more complicated with my lack of access to iPhones.
 + Turning it in: An academic project, this game ultimately needed a set "end."
 
+#### 4.0 Troubleshooting
+thhe
+
