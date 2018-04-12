@@ -29,4 +29,14 @@ Creating Tree Ottawa: Greber's Revnge followed a relatively linear process, outl
 
 #### 4.0 Troubleshooting
 
+#### 5.0 Landscape, place, and geography in digital history
+In linking gamification to natural history, Tree Ottawa: Greber's Revenge carefully considers the power of place when craftings its narrative. Ottawa is a living city with a great diversity of meaning, and the same may be said for its trees and natural spaces. Major's Hill Park, for example, is credited as Ottawa's first park. It's also the site of the Major's Hill Grenhouse Complex, remnants of which are still in use today. However, it also grapples with a conflicted past as a site of gay resistance and oppression. As Ottawa's [Village Legacy project](http://www.villagelegacy.ca/items/show/112?tour=1&index=0) notes:
+>Gay men, in particular, were targeted while cruising in well-known spots like Major’s Hill Park, behind Parliament, near the Germany Embassy, the YMCA on Metcalfe, the Château Laurier and Union Station, among others. These crimes came to a head in 1989, when there were at least 15 reported incidents of violence, and no doubt many more were unreported, as many men didn’t want to out themselves or deal with a hostile police force. In that year alone, seven people were thrown off the cliffs in Major’s Hill Park, with two dying from the fall. Others were robbed, assaulted or stabbed. 
+
+Dolores Hayden  argues “Social memory relies on storytelling, but what specialists call place memory can be used to help trigger social memory through the urban landscape.”(2) This is precicely what Tree Ottawa aims to do. 
+
+memory is linked to place, and that “place memory encapsulates the human ability to connect with both the built and natural environments that are entwined in the cultural landscape…Places trigger memories for insiders, who have shared a common past, and at the same time places often can represent shared pasts for outsiders who might be interested in knowing about them in the present
+
+(2)
+
 
