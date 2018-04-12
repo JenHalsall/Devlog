@@ -37,7 +37,14 @@ Tree Ottawa looks at past and present land use, and how institutional planning h
 
 This was not an unconscious choice, but rather an honest reflection of the resources available to dedicate to this project. When portraying marginalized groups in a public, university-affiliated project, consultation is a necessary first step. This is particularily true in a game like Tree Ottawa, which makes use of a host of goofy fictional characters (and one heavily fictionalized real one) and keeps a generally lighthearted, silly narrative. Shoehorning oppression and discrimination in without dedicating myself to the necessary consultative steps would result in more harm than good. And so the game suffers.
 
+#### Conclusions
+When considering the "final form" Tree Ottawa: Greber's Revenge takes, I'm not entirely satisfied. The narrative could incorporate more narratives of local resistance, game mechanics could be more complex, the platform altered for accessibility, and the storyline modified to inclue marginalized histories. These changes, and many more, are necessary to make it a more complete work of public history, one which truly caters to the diverse publics it wishes to serve. And yet, it's not easily catagorized as a failure, either. 
 
-(1)Jenny Kidd, Digital Storytelling and the performance of memory,” in _Save As…Digital Memories_. Ed. Joanne Garde-Hansen, Andrew Hoskins, Anna Reading, 167-183. (New York, Hampshire, 2009): 167.
+Brian Croxall and Quinn Warnick [assert that](https://digitalpedagogy.mla.hcommons.org/keywords/failure/) "there are many ways to fail when engaged in digital pedagogy: 1. Technological Failure 2. Human Failure 3. Failure as Artifact 4. Failure as Epistemology In each of these cases, failure may well prove to be productive and engaging. In the end, it is only the fear of failure that one should always avoid."
+
+This project blends some f the 
+
+(1) Jenny Kidd, Digital Storytelling and the performance of memory,” in _Save As…Digital Memories_. Ed. Joanne Garde-Hansen, Andrew Hoskins, Anna Reading, 167-183. (New York, Hampshire, 2009): 167.
+
 (2) Dolores Hayden, _The Power of Place: Urban Landscapes as Public History_. (Cambridge, the MIT Press, 1997), 46.
 
