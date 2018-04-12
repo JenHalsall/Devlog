@@ -1,11 +1,11 @@
-Welcome to the reflection!
+This reflection outlines the devlopment of Tree Ottawa: Greber's Revenge, an ARIS-based game hosted in Canada's capital. Tree Ottawa follows changes to Ottawa's landscape, mapping broad changes in planning though the evolution of the urban canopy and its accompanying features. Players learn the read the landscape as a living document, chronicling the broader changes Ottawa has experienced since approximately 1899. Along the way, they encounter a host of characters struggling to solve a supernatural mystery threatening the very existence of the capital. Using their newfound skills, players must solve the mystery and come head to head with one of Ottawa's most well-known federal planners.
 
 #### 1.0 The Importance of Documentation: Why this page exists
 The creation of the Tree Ottawa game has reinforced many assertions that have come up in relevant digital humanities scholarship. However, the importance of documentation is by far the most critical. It allows for the technical knowledge and critical thought wrapped up in the actual creation of the "thing," whatever it may be, to exist beyond its immediate end product. To me, documentation is akin to a manual of bike repair. With it, you view the product in a new light, and ideally you are able to go back and recreate (to an extent) the original outcome. Or, even better, you can improve it. 
 
-As Jenny Kidd, a DH scholar and author of "Digital storytelling and the performance of memory," asserts, “carrying memory for an assumed infinitum is a task the digital media ably take on." However, she notes this task is not without its challenges. She is quick to point out that things die in the digital much as they do in real life. File formats become obsolete, as do storage methods. Web hosting platforms go under, and may take your data with them. Nonetheless, new media have an “integral role to play in what is remembered, the form in which it is stored, and, later, how it will be retrieved.”(1)
+As Jenny Kidd, a DH scholar and author of "Digital storytelling and the performance of memory," asserts, “carrying memory for an assumed infinitum is a task the digital media ably take on." However, she notes this task is not without its challenges. She is quick to point out that things die in the digital much as they do in real life. File formats become obsolete, as do storage methods. Web hosting platforms go under, and may take your data with them. Nonetheless, new media have an “integral role to play in what is remembered, the form in which it is stored, and, later, how it will be retrieved.”(1) This page is intended to outline the core processes and thoughts wrapped up in the creation of Tree Ottawa and mak them available to anyone who is interested in creating a similar, better ARIS game.
 
-(1)Jenny Kidd, Digital Storytelling and the performance of memory,” in Save As…Digital Memories. Ed. Joanne Garde-Hansen, Andrew Hoskins, Anna Reading. 2009: Hampshire, New York,167-183. Page 167.
+(1)Jenny Kidd, Digital Storytelling and the performance of memory,” in _Save As…Digital Memories_. Ed. Joanne Garde-Hansen, Andrew Hoskins, Anna Reading, 167-183. (New York, Hampshire, 2009): 167.
 
 #### 2.0 Using ARIS
 Tree Ottawa: Greber's Revenge was built in ARIS, a web-based gamebuilding platfom created by researchers are students at Filed Day Lab. The lab is in turn part of the Wisconsin Center for Educational Research at the University of Wisconsin - Madison. ARIS presented several advantages for gamebuilding: its graphic interface requires relatively little technical skill to use, its pre-built app drastically reduces the back-end work required to develop any kind of mobile game, and its many help guides ensure a relatively seamless experience. More pragmatically, small games built with ARIS can use existing infastructure to gain visibility. Players in Ottawa ho already use ARIS will be able to easily find Tree Ottawa, for example. 
@@ -28,5 +28,5 @@ Creating Tree Ottawa: Greber's Revnge followed a relatively linear process, outl
 + Turning it in: An academic project, this game ultimately needed a set "end."
 
 #### 4.0 Troubleshooting
-thhe
+
 
